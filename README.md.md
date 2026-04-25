@@ -1,3 +1,10 @@
+Key Skills Demonstrated
+- SQL (MySQL)
+- Data Analysis
+- CTEs & Subqueries
+- Window Functions (ROW_NUMBER, DENSE_RANK)
+- Data Cleaning & Transformation
+
 **ANALYSIS**
 
 
